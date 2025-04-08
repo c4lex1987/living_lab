@@ -1,6 +1,3 @@
-# Acceso a CRAN
-options(download.file.method = "wininet")
-
 # Cargar librerías necesarias
 library(readr)   # Para leer CSVs
 library(dplyr)   # Para manipulación de datos
